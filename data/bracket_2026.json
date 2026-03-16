@@ -1,0 +1,28 @@
+{
+  "tournament": "NCAA Men's Basketball Tournament",
+  "year": 2026,
+  "bracket": [
+    {
+      "round": 1,
+      "games": [
+        {"matchup": "1 vs 16", "location": "West Region"},
+        {"matchup": "8 vs 9", "location": "West Region"},
+        {"matchup": "5 vs 12", "location": "West Region"},
+        {"matchup": "4 vs 13", "location": "West Region"},
+        {"matchup": "6 vs 11", "location": "West Region"},
+        {"matchup": "3 vs 14", "location": "West Region"},
+        {"matchup": "7 vs 10", "location": "West Region"},
+        {"matchup": "2 vs 15", "location": "West Region"}
+      ]
+    },
+    {
+      "round": 2,
+      "games": [
+        {"matchup": "Winner of 1 vs 16 vs Winner of 8 vs 9", "location": "West Region"},
+        {"matchup": "Winner of 5 vs 12 vs Winner of 4 vs 13", "location": "West Region"},
+        {"matchup": "Winner of 6 vs 11 vs Winner of 3 vs 14", "location": "West Region"},
+        {"matchup": "Winner of 7 vs 10 vs Winner of 2 vs 15", "location": "West Region"}
+      ]
+    }
+  ]
+}
